@@ -11,7 +11,7 @@ public class WeatherResponse
 public class MainInfo
 {
     public double Temp { get; set; }
-    public double FeelsLike { get; set; }
+    public double Feels_Like { get; set; }
     public int Humidity { get; set; }
 }
 
